@@ -97,7 +97,7 @@
         <img src="https://github.com/vraestoren/anixart.py/assets/77536370/dba37d92-e9d6-4cd2-af5f-c2e20675bd0a" height="20px">
         <a href="https://github.com/vraestoren/pixel_encounter.py"> pixel_encounter.py </a> </td>
       <td>
-        <img src="https://www.chess.com/bundles/web/images/brand/chesscom_pawn.b51896bf.png" height="20px">
+        <img src="https://www.chess.com/bundles/web/favicons/apple-touch-icon.7aaa2d1f.png" height="20px">
         <a href="https://github.com/vraestoren/chess.py"> chess.py </a> </td>
       <td>
         <img src="https://grustnogram.ru/favicon/apple-icon.png" height="20px">
