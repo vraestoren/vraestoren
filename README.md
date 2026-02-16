@@ -11,7 +11,7 @@
     <tr> <th colspan="5">Python - 100</th> </tr>
     <tr>
       <td>
-        <img src="https://aminoapps.com/static/img/amino-logo-ld.png" height="20px">
+        <img src="https://static.wikia.nocookie.net/logopedia/images/a/a2/Amino-apps-logo.png/revision/latest?cb=20191209165950" height="20px">
         <a href="https://github.com/vraestoren/aminoapps.py"> aminoapps.py </a> </td>
       <td>
         <img src="https://anilibria.app/res/icons/ic_anilibria_white.svg" height="20px">
