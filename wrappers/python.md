@@ -3,7 +3,7 @@
     <tr> <th colspan="5">Python - 100</th> </tr>
     <tr>
       <td>
-        <img src="https://aminoapps.com/static/img/amino-logo-ld.png" height="20px">
+        <img src="https://static.wikia.nocookie.net/logopedia/images/a/a2/Amino-apps-logo.png/revision/latest?cb=20191209165950" height="20px">
         <a href="https://github.com/vraestoren/aminoapps.py"> aminoapps.py </a> </td>
       <td>
         <img src="https://anilibria.app/res/icons/ic_anilibria_white.svg" height="20px">
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://anixart.tv/images/logo.svg" height="20px">
+        <img src="https://anixart-app.com/assets/images/logo.svg" height="20px">
         <a href="https://github.com/vraestoren/anixart.py"> anixart.py </a> </td>
       <td>
         <img src="https://play-lh.googleusercontent.com/UGqSCx96rFlYX_P8YIzUBUo9g-q1J1Ba_dV1z0cxdBhWOmxZQODsPCDT7AQky7lBZA" height="20px">
@@ -46,7 +46,7 @@
         <img src="https://web.archive.org/web/20230115155424im_/https://notalone.tv/images/logo.png" height="20px">
         <a href="https://github.com/vraestoren/notalone.py"> notalone.py </a> </td>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VK_Compact_Logo.svg/768px-VK_Compact_Logo.svg.png" height="20px">
+        <img src="https://vk.com/images/icons/pwa/apple/default.png?15" height="20px">
         <a href="https://github.com/vraestoren/vk_audio.py"> vk_audio.py </a> </td>
       <td>
         <img src="https://drrr.com/apple-touch-icon.png" height="20px">
@@ -60,7 +60,7 @@
         <img src="https://play-lh.googleusercontent.com/HLpUkrTbePb7ygvmF4_3EZdsPMx7gH8USs5wGqSShjnUvsYBv0OxpgyMBhy_xDN0POWM=s200-rw" height="20px">
         <a href="https://github.com/vraestoren/bgm_online.py"> bgm_online.py </a> </td>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VK_Compact_Logo.svg/768px-VK_Compact_Logo.svg.png" height="20px">
+        <img src="https://vk.com/images/icons/pwa/apple/default.png?15" height="20px">
         <a href="https://github.com/vraestoren/vk_user.py"> vk_user.py </a> </td>
       <td>
         <img src="https://mcsrvstat.us/img/minecraft.png" height="20px">
@@ -80,7 +80,7 @@
         <img src="https://gdbrowser.com/assets/coin.png" height="20px">
         <a href="https://github.com/vraestoren/gd_browser.py"> gd_browser.py </a> </td>
       <td>
-        <img src="https://crafatar.com/logo.png" height="20px">
+        <img src="https://avatars.githubusercontent.com/u/10799315?s=200&v=4" height="20px">
         <a href="https://github.com/vraestoren/crafatar.py"> crafatar.py </a> </td>
       <td>
         <img src="https://tetr.io/res/logo.png" height="20px">
