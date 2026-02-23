@@ -1,7 +1,6 @@
 <body>
   <div align="center">
-    <img src="https://media.tenor.com/MAKAsL_8XToAAAAe/napoleon-bonaparte-there-is-nothing-we-can-do.png"> <br>
-    <a href="https://t.me/forevayounger"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <img src="https://www.famsf.org/storage/images/a1f4584e-b892-4148-724f-0bd42cc65aad/starry.jpg?crop=670,377,x0,y117&format=jpg&quality=80"> <br>
     <h2> Skill <h2>
     <img src="https://skillicons.dev/icons?i=python,javascript,bash,c,html,css,php,markdown,ruby,tailwind,cs,crystal&perline=4">
   </div>
