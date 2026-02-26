@@ -1,6 +1,5 @@
 <body>
   <div align="center">
-    <img src="https://www.famsf.org/storage/images/a1f4584e-b892-4148-724f-0bd42cc65aad/starry.jpg?crop=670,377,x0,y117&format=jpg&quality=80"> <br>
     <h2> Skill <h2>
     <img src="https://skillicons.dev/icons?i=python,javascript,bash,c,html,css,php,markdown,ruby,tailwind,cs,crystal,unity&perline=7">
   </div>
