@@ -54,7 +54,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://play-lh.googleusercontent.com/O390Px9RxOiPsFMW6odpciUSpmacvzltXzQcBHLxMld8_PYFoGB7_K_73WJT6kt7hzQ=w240-h480-rw" height="20px">
+        <img src="https://www.zervo.me/images/logo.jpeg" height="20px">
         <a href="https://github.com/vraestoren/zervo.py"> zervo.py </a> </td>
       <td>
         <img src="https://play-lh.googleusercontent.com/HLpUkrTbePb7ygvmF4_3EZdsPMx7gH8USs5wGqSShjnUvsYBv0OxpgyMBhy_xDN0POWM=s200-rw" height="20px">
