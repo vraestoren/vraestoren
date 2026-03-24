@@ -36,7 +36,7 @@
         <img src="https://sun9-66.userapi.com/s/v1/if1/Yaj0rTAS--iQS0Cf_b4Wv3mbHwkjYLRG6MbbwzKqVbg5mL79CHtSJe5OzFm1rTDLKcdfYRxJ.jpg?size=220x220&quality=96&type=album" height="20px">
         <a href="https://github.com/vraestoren/randstuff.py"> randstuff.py </a> </td>
       <td>
-        <img src="https://i.postimg.cc/cCm4FTYk/svgexport-1-1.png", height="20px">
+        <img src="https://author.today/distCommon/images/at-logo.png", height="20px">
         <a href="https://github.com/vraestoren/author_today.py"> author_today.py </a> </td>
     </tr>
     <tr>
