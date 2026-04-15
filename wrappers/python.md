@@ -145,7 +145,7 @@
         <img src="https://play-lh.googleusercontent.com/GX1HP5GydfzTaAESUW3wluvdFLZLnfYUVfjMJReWb3KOb4BUqS0GbfpOyizVzAPrAD0" height="20px">
         <a href="https://github.com/vraestoren/pppoker.py"> pppoker.py <a> </td>
       <td>
-        <img src="https://play-lh.googleusercontent.com/W0x7hw_30A1FONAdPJjf_6zbXCbsLnxqgFF8fhUoUZ4okYPfbLECUDj1vJ2toGlrcBIQ" height="20px">
+        <img src="https://camo.githubusercontent.com/bd98d50f09e1152da9929883d784ea78e6d373a595afdbf53d45370998548199/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f727a4e534d735f704c46624f6d6265773039535f70596252597a546458494f4a764579354d5a4c594e524a585138574b463242376d6975413758615f2d556d4361673d773234302d683438302d7277" height="20px">
         <a href="https://github.com/vraestoren/pocket_combats.py"> pocket_combats.py </a> </td>
       <td>
         <img src="https://besplatno-poker.com/wp-content/uploads/2017/03/logo.png" height="20px">
@@ -162,7 +162,7 @@
         <img src="https://play-lh.googleusercontent.com/XuhLtB92lA2sOXgyMnC5ijCnCSaKJfij0NRbnVTlul_EL1eXmFt1BW67imYe5HlgLQ" height="20px">
         <a href="https://github.com/vraestoren/lvluplife.py"> lvluplife.py </a> </td>
       <td>
-        <img src="https://play-lh.googleusercontent.com/zNTRSx2VkiG45oLR6hk5ppUl63aCxgK4gqxMdebnA5xUvWaXI_pVQq8GBQ-fM3mSXTM" height="20px">
+        <img src="https://play-lh.googleusercontent.com/HWkY5rGWxIFn3l1oKqBiDzJmEEciXDR7G3FMsAl42RrzsMYgKWU2NOQUttrwE0ULwQ=w240-h480-rw" height="20px">
         <a href="https://github.com/vraestoren/fan_of_guns.py"> fan_of_guns.py </a> </td>
       <td>
         <img src="https://play-lh.googleusercontent.com/uywltYg71rMi3AwWjLQeo8jIiRF8bZ95uPBcZHoXC8jpZtDA8M98yM78FOAEWPWwX5I" height="20px">
