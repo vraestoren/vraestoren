@@ -117,7 +117,7 @@
         <img src="https://www.gamerpower.com/assets/images/logo.png" height="20px">
         <a href="https://github.com/vraestoren/gamer_power.py"> gamer_power.py </a> </td>
       <td>
-        <img src="https://anonfiles.com/static/logo.png" height="20px">
+        <img src="https://camo.githubusercontent.com/feb78f2c88749d2c2c3376c31e6918abdb9c5733b9cfae59c1ec67180fb939d2/68747470733a2f2f692e6962622e636f2f6b4a593831544c2f416e6f6e2d46696c65732e706e67" height="20px">
         <a href="https://github.com/vraestoren/anonfiles.py"> anonfiles.py </a> </td>
     </tr>
     <tr>
@@ -279,7 +279,7 @@
         <a href="https://github.com/vraestoren/final_space.py"> final_space.py </a> </td>
       <td>
         <img src="https://gameofthronesquotes.xyz/img/logo.png" height="20px">
-        <a href="https://github.com/vraestoren/g_o_t_quotes.py"> g_o_t_quotes.py </a> </td>
+        <a href="https://github.com/vraestoren/got_quotes.py"> got_quotes.py </a> </td>
       <td>
         <img src="https://www.coinlore.com/cl_logo.webp" height="20px">
         <a href="https://github.com/vraestoren/coin_lore.py"> coin_lore.py </a> </td>
