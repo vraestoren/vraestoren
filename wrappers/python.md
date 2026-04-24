@@ -298,7 +298,7 @@
         <img src="https://www.datamuse.com/api/datamuse-logo-rgb.png" height="20px">
         <a href="https://github.com/vraestoren/datamuse.py"> datamuse.py </a> </td>
       <td>
-        <img src="https://whatpulse.org/images/dashboard/logo.png" height="20px">
+        <img src="https://camo.githubusercontent.com/6edeccc57109262f900adc0d5a95ad895f3ba35a7e1ddd2de892ec1e11f2f626/68747470733a2f2f7768617470756c73652e6f72672f6173736574732f696d616765732f66617669636f6e2f66617669636f6e2d39367839362e706e67" height="20px">
         <a href="https://github.com/vraestoren/what_pulse.py"> what_pulse.py </a> </td>
       <td>
         <img src="https://www.uuidtools.com/android-icon-192x192.png" height="20px">
@@ -315,7 +315,7 @@
         <img src="https://user-images.githubusercontent.com/77536370/194083398-1bd6d8ab-d3de-435e-9574-1dcc604189f0.png" height="20px">
         <a href="https://github.com/vraestoren/shout_cloud.py"> shout_cloud.py </a> </td>
       <td>
-        <img src="https://camo.githubusercontent.com/f614db8b64928159b3c6a36b3a67eb98ae72f7b1a960096e1c7f35b35a68bd4c/68747470733a2f2f692e706f7374696d672e63632f387a4c516864344a2f69636f6e2d312e706e67" height="20px">
+        <img src="https://github.com/user-attachments/assets/5397a966-7fb3-4d1d-95d2-50b5b62f24ad" height="20px">
         <a href="https://github.com/vraestoren/cryptonator.py"> cryptonator.py </a> </td>
       <td>
         <img src="https://www.purgomalum.com/images/logo.gif" height="20px">
