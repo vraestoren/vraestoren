@@ -101,7 +101,7 @@
     <tr> <th colspan="5">JavaScript - 100</th> </tr>
     <tr>
       <td>
-        <img src="https://postali.app/favicon.svg" height="20px">
+        <img src="https://github.com/user-attachments/assets/61662977-32cf-4f9b-a40a-ca4df6f7c454" height="20px">
         <a href="https://github.com/vraestoren/postali.js"> postali.js </a> </td>
       <td>
         <img src="https://color.serialif.com/images/favicon.png" height="20px">
@@ -118,7 +118,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://frankfurter.dev/favicon.svg?v=1748629791" height="20px">
+        <img src="https://frankfurter.dev/images/logo-dark.png" height="20px">
         <a href="https://github.com/vraestoren/frankfurter.js"> frankfurter.js </a> </td>
       <td>
         <img src="https://github.com/user-attachments/assets/733c1eef-8a9f-4e30-acdf-30e6269a6202" height="20px">
