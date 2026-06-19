@@ -160,7 +160,7 @@
         <img src="https://xdaforums.com/attachments/logo-icon-png.5938877/" height="20px">
         <a href="https://github.com/vraestoren/FastFoxVpn.cs"> FastFoxVpn.cs </a> </td>
       <td>
-        <img src="https://rewardsvpn.com/vpnadmin/assets/img/reward.svg" height="20px">
+        <img src="https://rewardsvpn.com/reward_icon.png" height="20px">
         <a href="https://github.com/vraestoren/RewardVpn.cs"> RewardVpn.cs </a> </td>
       <td>
         <img src="https://cdn.aptoide.com/imgs/4/7/e/47e1dc0b0de8e13ad0b1a447876b7fcf_icon.png?w=128" height="20px">
